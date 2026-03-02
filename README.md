@@ -1,3 +1,4 @@
+#     ASHITOSH CHAVAN (linkedin.com/in/ashitosh-chavan-712682299)
 # 🌩️ Cloud & DevOps Engineer
 
 ## 👋 Introduction
@@ -6,13 +7,13 @@ I am a Cloud & DevOps Engineer passionate about building scalable, secure, and a
 ---
 
 ## 🚀 Skills & Expertise
-- **Cloud Platforms**: AWS, Azure, Google Cloud  
+- **Cloud Platforms**: AWS, Google Cloud  
 - **Infrastructure as Code (IaC)**: Terraform, Ansible, CloudFormation  
-- **Containerization & Orchestration**: Docker, Kubernetes, Helm  
+- **Containerization & Orchestration**: Docker, Kubernetes,   
 - **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps  
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, CloudWatch  
 - **Scripting & Automation**: Python, Bash, PowerShell  
-- **Version Control**: Git, GitHub, GitLab, Bitbucket  
+- **Version Control**: Git, GitHub, GitLab,  
 - **Security & Compliance**: IAM, Secrets Management, Vulnerability Scanning  
 
 ---
@@ -35,11 +36,11 @@ I am a Cloud & DevOps Engineer passionate about building scalable, secure, and a
 ## 🛠️ Tools & Technologies
 | Category              | Tools/Technologies |
 |-----------------------|--------------------|
-| Cloud                 | AWS, Azure, GCP |
+| Cloud                 | AWS,  |
 | IaC                   | Terraform, Ansible, CloudFormation |
 | CI/CD                 | Jenkins, GitHub Actions, GitLab CI |
 | Containers            | Docker, Kubernetes, Helm |
-| Monitoring/Logging    | Prometheus, Grafana, ELK Stack |
+| Monitoring/Logging    | Prometheus, Grafana, |
 | Scripting             | Python, Bash |
 
 ---
@@ -52,8 +53,8 @@ I am a Cloud & DevOps Engineer passionate about building scalable, secure, and a
 ---
 
 ## 📬 Contact
-- **Email**: your.email@example.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+- **Email**: ashitoshchavan2010@gmail.com 
+- **LinkedIn**: [linkedin.com/in/yourprofile](linkedin.com/in/ashitosh-chavan-712682299)  
+-   
 
 ---
